@@ -3,7 +3,7 @@ require 'pry'
 #This is the groceries hash we'll be passing in to the get_the_values method
 # groceries = {
 #  dairy: ["milk", "yogurt", "cheese"],
-#  vegetable: ["carrots", "broccoli", "cucumbers"],
+#  vegetable: ["carrots", rbu"broccoli", "cucumbers"],
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
